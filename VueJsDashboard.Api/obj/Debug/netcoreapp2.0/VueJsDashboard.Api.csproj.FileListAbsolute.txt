@@ -1,0 +1,10 @@
+C:\Git\VueJsDashboard\VueJsDashboard.Api\bin\Debug\netcoreapp2.0\VueJsDashboard.Api.deps.json
+C:\Git\VueJsDashboard\VueJsDashboard.Api\bin\Debug\netcoreapp2.0\VueJsDashboard.Api.runtimeconfig.json
+C:\Git\VueJsDashboard\VueJsDashboard.Api\bin\Debug\netcoreapp2.0\VueJsDashboard.Api.runtimeconfig.dev.json
+C:\Git\VueJsDashboard\VueJsDashboard.Api\bin\Debug\netcoreapp2.0\VueJsDashboard.Api.dll
+C:\Git\VueJsDashboard\VueJsDashboard.Api\bin\Debug\netcoreapp2.0\VueJsDashboard.Api.pdb
+C:\Git\VueJsDashboard\VueJsDashboard.Api\obj\Debug\netcoreapp2.0\VueJsDashboard.Api.csproj.CoreCompileInputs.cache
+C:\Git\VueJsDashboard\VueJsDashboard.Api\obj\Debug\netcoreapp2.0\VueJsDashboard.Api.AssemblyInfoInputs.cache
+C:\Git\VueJsDashboard\VueJsDashboard.Api\obj\Debug\netcoreapp2.0\VueJsDashboard.Api.AssemblyInfo.cs
+C:\Git\VueJsDashboard\VueJsDashboard.Api\obj\Debug\netcoreapp2.0\VueJsDashboard.Api.dll
+C:\Git\VueJsDashboard\VueJsDashboard.Api\obj\Debug\netcoreapp2.0\VueJsDashboard.Api.pdb
